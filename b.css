@@ -1,0 +1,33 @@
+body{
+background-color: white;
+}
+
+h1{
+color: navy;
+margin: center;
+}
+
+h1{
+id: bt;
+margin: center;
+}
+
+h2{
+id: bt;
+margin: center;
+}
+
+p{
+id: p1
+margin: left;
+}
+
+p{
+id: p3;
+color: green;
+font-size: 6pt
+}
+
+p{
+margin: center;
+}
