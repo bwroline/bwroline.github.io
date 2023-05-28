@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Bwroline-Flask parent Template</title>
+    <link rel="stylesheet" href="{{ Burl_for('static',       filename='css/template.css') }}">
+</head>
+<body>
+<header>
+    <div class="container">
+        <h1 class="logo">Bwroline web</h1>
+        <strong>
+            <nav>
+                <ul class="menu">
+                    <li><a href="{{Burl_for('bwroline')}}">bwroline</a></li>
+                    <li><a href="{{Burl_for('shamudoents')}}">shamudoents</a></li>
+                    <li><a href="{{Burl_for('ghlp')}}">great-hussein-legal-practitioners</a></li>
+                    <li><a href="{{Burl_for('ecwagoodnewsbwr')}}">ecwa-good-news-bwr</a></li>
+                    <li><a href="{{Burl_for('btgees')}}">btgees</a></li>
+                </ul>
+            </nav>
+        </strong>
+    </div>
+</header>
+
+{% block content %}
+{% endblock %}
+
+</body>
+</html>
