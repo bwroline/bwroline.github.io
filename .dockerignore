@@ -1,0 +1,8 @@
+logs/
+dockerfile
+passwords.txt
+.git
+.cache
+.gitignore
+*.md
+**/*.class
