@@ -4,27 +4,23 @@ background-color: white;
 
 h1{
 color: navy;
-margin: center;
-}
-
-h1{
-id: bt;
+id: btg,bwr,shd,ghl,egb;
 margin: center;
 }
 
 h2{
-id: bt;
+id: btg,her,shd,ghl,egb;
 margin: center;
 }
 
 p{
 id: p1
-margin: left;
+margin: center;
 }
 
 p{
 id: p3;
-color: green;
+color: blue;
 font-size: 6pt
 }
 
