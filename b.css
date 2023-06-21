@@ -18,13 +18,7 @@ margin: center;
 }
 
 p{
-id: p1;
-font-size: 6pt;
-margin: center;
-}
-
-p{
-id: p2,p3;
+id: p1,p2,p3;
 color: black;
 font-size: 6pt;
 margin: center;
