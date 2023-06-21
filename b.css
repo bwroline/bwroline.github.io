@@ -14,14 +14,16 @@ margin: center;
 }
 
 p{
-id: p1
+id: p1;
+font-size: 7pt;
 margin: center;
 }
 
 p{
-id: p3;
-color: blue;
-font-size: 6pt
+id: p2,p3;
+color: black;
+font-size: 7pt;
+margin: center;
 }
 
 p{
