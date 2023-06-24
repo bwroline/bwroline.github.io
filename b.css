@@ -1,21 +1,42 @@
+
+
+form#f1{
+
+}
+
+a#bwroline,a#shamudo,a#great,a#ecwa,a#btgees,a#order,a#ss,a#cm,a#boe,a#woma,a#cpfp,a#btgfd,a#cont,a#nja,a#frgn,a#rg,a#oldskl,a#ic,a#egzl,a#mp3,a#bbl,a#bvids,a#pop{
+size: 1.45;
+}
+
 body{
-background-color: white;
+background-color: gray blue white;
 }
 
-h1{
-color: navy;
-id: btg,bwr,shd,ghl,egb;
+h1#btg, h1#bwr, h1#shd, h1#ghl, h1#egb{
+font-style: navy;
 margin: center;
 }
 
-h2{
-id: btg,bwr,shd,ghl,egb;
+h2#btg,h1#bwr,h1#shd,h1#ghl,h1#egb,h1#order{
 margin: center;
+font-style: blue transparent ;
 }
 
-p{
-id: p1,p2,p3;
+p#p1{
+font-style: italic bold 3pt;
+}
+
+p#p2{
 color: black;
 font-size: 6pt;
 margin: center;
+}
+
+p#p3{
+font-style: orange italic bold 4.5pt;
+margin: center
+}
+
+input#mp{
+
 }
