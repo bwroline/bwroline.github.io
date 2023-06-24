@@ -6,3 +6,4 @@ passwords.txt
 .gitignore
 *.md
 **/*.class
+**/*.//*//**
