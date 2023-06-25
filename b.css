@@ -4,7 +4,7 @@ form#f1, form#order{
 
 }
 
-a#bwroline, a#shamudo, a#great, a#ecwa, a#btgees, a#order, a#ss, a#cm, a#boe, a#woma, a#cpfp, a#btgfd, a#cont, a#nja, a#frgn, a#rg, a#oldskl, a#ic, a#egzl, a#mp3, a#bbl, a#bvids, a#pop, a#bt{
+bwroline, shamudo, great, ecwa, btgees, order, ss, cm, boe, woma, cpfp, btgfd, cont, nja, frgn, rg, oldskl, ic, egzl, mp3, bbl, bvids, pop, bt{
 size: 1.45;
 }
 
@@ -12,14 +12,9 @@ body{
 background-color: gray blue white;
 }
 
-h1#btg, bwr, shd, ghl, egb, order, bl{
-font-style: navy;
+btg, bwr, shd, ghl, egb, order, bl{
+font-style: navy, transparent;
 margin: center;
-}
-
-h2#btg, bwr, shd, ghl, egb, order{
-margin: center;
-font-style: blue transparent ;
 }
 
 p#p1{
