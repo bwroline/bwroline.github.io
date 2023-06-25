@@ -12,12 +12,12 @@ body{
 background-color: gray blue white;
 }
 
-h1#btg, h1#bwr, h1#shd, h1#ghl, h1#egb, h1#order, h1#bl{
+h1#btg, bwr, shd, ghl, egb, order, bl{
 font-style: navy;
 margin: center;
 }
 
-h2#btg, h2#bwr, h2#shd, h2#ghl, h2#egb, toh2#order{
+h2#btg, bwr, shd, ghl, egb, order{
 margin: center;
 font-style: blue transparent ;
 }
