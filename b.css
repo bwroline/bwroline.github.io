@@ -1,6 +1,5 @@
 
-
-form#f1, form#order{
+	f1, order, details{
 
 }
 
@@ -13,7 +12,7 @@ background-color: white;
 align: center;
 }
 
-btg, bwr, shd, ghl, egb, order, bl{
+btg, bwr, shd, ghl, egb, order, prnp, r-php, st, ss, bl{
 font-style: navy;
 margin: center;
 align: center;
