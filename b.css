@@ -1,10 +1,10 @@
 
 
-form#f1{
+form#f1, form#order{
 
 }
 
-a#bwroline,a#shamudo,a#great,a#ecwa,a#btgees,a#order,a#ss,a#cm,a#boe,a#woma,a#cpfp,a#btgfd,a#cont,a#nja,a#frgn,a#rg,a#oldskl,a#ic,a#egzl,a#mp3,a#bbl,a#bvids,a#pop{
+a#bwroline,a#shamudo,a#great,a#ecwa,a#btgees,a#order,a#ss,a#cm,a#boe,a#woma,a#cpfp,a#btgfd,a#cont,a#nja,a#frgn,a#rg,a#oldskl,a#ic,a#egzl,a#mp3,a#bbl,a#bvids,a#pop,a#bt{
 size: 1.45;
 }
 
@@ -12,12 +12,12 @@ body{
 background-color: gray blue white;
 }
 
-h1#btg, h1#bwr, h1#shd, h1#ghl, h1#egb{
+h1#btg, h1#bwr, h1#shd, h1#ghl, h1#egb, h1#order, h1#bl{
 font-style: navy;
 margin: center;
 }
 
-h2#btg,h1#bwr,h1#shd,h1#ghl,h1#egb,h1#order{
+h2#btg,h2#bwr,h2#shd,h2#ghl,h2#egb,h2#order{
 margin: center;
 font-style: blue transparent ;
 }
