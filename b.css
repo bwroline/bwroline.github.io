@@ -9,27 +9,32 @@ size: 1.45;
 }
 
 body{
-background-color: gray blue white;
+background-color: gray;
+align: center;
 }
 
 btg, bwr, shd, ghl, egb, order, bl{
 font-style: navy, transparent;
 margin: center;
+align: center;
 }
 
 p1{
 font-style: italic bold 3pt;
+align: center;
 }
 
 p2{
 color: black;
 font-size: 6pt;
 margin: center;
+align: center;
 }
 
 p3{
 font-style: orange italic bold 4.5pt;
-margin: center
+margin: center;
+align: center;
 }
 
 input#mp{
