@@ -17,17 +17,17 @@ font-style: navy, transparent;
 margin: center;
 }
 
-p#p1{
+p1{
 font-style: italic bold 3pt;
 }
 
-p#p2{
+p2{
 color: black;
 font-size: 6pt;
 margin: center;
 }
 
-p#p3{
+p3{
 font-style: orange italic bold 4.5pt;
 margin: center
 }
