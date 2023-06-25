@@ -14,13 +14,13 @@ align: center;
 }
 
 btg, bwr, shd, ghl, egb, order, bl{
-font-style: navy-transparent;
+font-style: navy;
 margin: center;
 align: center;
 }
 
 p1{
-font-style: italic-bold;
+font-style: italic;
 font-size: 3pt;
 align: center;
 }
@@ -33,7 +33,7 @@ margin: center;
 
 p3{
 font-style: orange;
-font-family: italic-bold;
+font-family: italic;
 font-size: 4.5pt;
 margin: center;
 align: center;
