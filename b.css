@@ -1,35 +1,57 @@
 
-body{
+#bl, #t{
+font-style: gothic;
+font-size: 28pts;
+margin: center;
+color: blue;
+}
+
+#bwr_b{
 background-color: white;
-align: center;
-}
-
-btg, bwr, shd, ghl, egb, order, prnp, r-php, st, ss, bl{
-font-style: navy;
 margin: center;
-align: center;
 }
 
-p1{
+#pop_b{
+background-color: yellow;
+margin: center;
+}
+
+#p1, #p11{
 font-style: italic;
-font-size: 3pt;
+font-size: 14pt;
 align: center;
+color: red;
 }
 
-p2{
+#bl_b{
+color: gray;
+}
+
+#bb{
+path: bb.jpg;
+}
+
+.boe, .ewa, .kio, .pop, .btgfd, .bhoa, .ref, .ls, .tech, .list-order, .ss, .sl, .bwroline.com, .shd, .ghl, .egb, .btgees.com, .btgs, .btg, .joh, .dic, .upload{
+font-family: sans-gothic;
+}
+
+#egb, #btgees, #p2, #p22, #sl{
 color: black;
-font-size: 6pt;
-margin: center;
+font-size: 14pt;
+text-align: center;
 }
 
-p3{
+#p3, #p33, #p333{
 font-style: orange;
+color: orange;
 font-family: italic;
-font-size: 4.5pt;
+font-size: 15pt;
 margin: center;
-align: center;
 }
 
 input#mp{
 
 }
+
+/* /data/user/0/jackpal.androidterm/app_HOME */
+
