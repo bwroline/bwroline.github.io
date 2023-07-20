@@ -1,35 +1,36 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
 <html>
-<head><title>ButtonSignupAndLoginAndButton</title>
-    <base href="C:\b\"/>
+<head><title>Bwroline Signup or Login</title>
+    <link rel="stylesheet" href="j.css" type="text/css"/>
+    <script type="javascript/text" src="b.js"></script>
 </head>
-<body>
-<br>
-<br>
-<p id.name="sl">
-    <font size="6pt">
-        Already a member!<br>
-<form id.name.#="details">
-    <p align="center">Login to update your church membership</p>
+<body onclick="sl()" type="search" id="ls">
+<section id="p2">
+        Already a member!<br><br>
+<form id="sl">
+    Login to update your church membership
     <br>
     <br>
-    email*:
-    <textarea cols="35" rows="2"></textarea>
+    email:
+    <input type="text" id="email" value="*">
     <br>
-    password*:
-    <textarea cols="35" rows="2"></textarea><br>
-    <input value="Login" type="button">
+        <br>
+    password:
+    <input type="text" id="password" value="*"><br><br>
+    <input value="Login" type="button" onclick="sl()">
     <hr>
     <br>
-    <p align="center">A new member! Signup</p><br>
+    A new!!! Signup<br>
+    <br><br>
+    email:<input type="text" id="email12">
+    <br><br>
+    password:<input type="text" id="password1" value="*" pattern="aZ-Az0-9/."/>
+    <br><br>
+    <!--come bak to the next page-->
+    password again:<input type="text" id="password-again" value="*" pattern="aZ-Az0-9/."/><br><br>
+    <input value="Signup" type="button" onclick="sl()">
     <br>
-    email*:<textarea cols="35" rows="2"></textarea>
-    <br>
-    password*:<textarea cols="35" rows="2"></textarea>
-    <br>
-    password again*:<textarea cols="35" rows="2"></textarea><br>
-    <input value="Signup" type="button">
-    <br>
-    <br>
+</form>
+</section>
 </body>
 </html>
