@@ -13,7 +13,7 @@ var sd = new Date();
 var pros_gen = bwaya.length;
 var bwaya = new Array(bwr_com, shd_com, ghl_com, egb_com, btg_com);
 var sess = (new Date() - sd)
-var session = sess * (times * pros_gen.length));
+var session = sess * (times * pros_gen.length);
 
 function times(a, b){
     while username {
